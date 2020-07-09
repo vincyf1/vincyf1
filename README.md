@@ -4,7 +4,7 @@ I am a Data Engineer & DBA by profession. I love working on all things data.
 
 - 💬 Ask me about Databases (SQL Server, Postgres, MySQL)
 - 👯 I’m looking to collaborate on Data Engineering Projects using Python, Bash, AWS/GCP Services
-- 📫 How to reach me: Twitter (@vincyf1), Reddit (@vincyf1)
+- 📫 How to reach me: LinkedIn ([profile](https://www.linkedin.com/in/vinayskulkarni/)), Twitter ([@vincyf1](https://twitter.com/vincyf1)), Reddit ([@vincyf1](https://www.reddit.com/user/vincyf1))
 
 
 <!--
