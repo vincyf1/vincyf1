@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi Github 👋 Vinay here! 
+
+I am a Data Engineer & DBA by profession. I love working on all things data. 
+
+- 💬 Ask me about Databases (SQL Server, Postgres, MySQL)
+- 👯 I’m looking to collaborate on Data Engineering Projects using Python, Bash, AWS/GCP Services
+- 📫 How to reach me: Twitter (@vincyf1), Reddit (@vincyf1)
+
 
 <!--
 **vincyf1/vincyf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
