@@ -1,6 +1,6 @@
 ### Hi Github 👋 Vinay here! 
 
-I am a Data Engineer & DBA by profession. I love working on all things data. 
+I am a Data Engineer by profession. I love working on all things data. 
 
 - 💬 Ask me about Databases (SQL Server, Postgres, MySQL)
 - 👨🏻‍💻 I’m keen to collaborate on Data Engineering Projects addressing and solving Data problems using Python, SQL, Bash, AWS/GCP/Azure Services
