@@ -1,8 +1,8 @@
-### Hi Github 👋 Vinay here! 
+### Hey all 👋 Vinay here! 
 
 I am a Data Engineer by profession. I love working on all things data. 
 
-- 💬 Ask me about Databases (SQL Server, Postgres, MySQL)
+- 💬 Ask me about Data Engineering & Database Technologies 
 - 👨🏻‍💻 I’m keen to collaborate on Data Engineering Projects addressing and solving Data problems using Python, SQL, Bash, AWS/GCP/Azure Services
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinayskulkarni/), [Twitter](https://twitter.com/vincyf1), [Reddit](https://www.reddit.com/user/vincyf1)
 - 😄 Pronouns: He/Him
