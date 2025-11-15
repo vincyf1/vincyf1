@@ -50,4 +50,4 @@ My work bridges **data engineering, machine learning, and strategic technology e
 Let’s talk about **data platforms, AI enablement, or technology leadership**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](www.linkedin.com/in/vinayskulkarni)
-[![Portfolio](https://img.shields.io/badge/Portfolio-555?logo=vercel\&logoColor=white)](https://vincyf1.github.io/personal-website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-555?logo=vercel\&logoColor=white)](https://imvinay.com)
