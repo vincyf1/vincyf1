@@ -1,53 +1,93 @@
 # 👋 Hi, I'm Vinay
 
-### 🚀 Data, AI & ML Leader | Building Intelligent, Scalable, and Data-Driven Systems
+### 🚀 Data & AI Platform Leader | Turning Data Systems into Decision Systems
 
-I’m passionate about designing and leading **data-driven architectures** that empower analytics, automation, and AI.
-My work bridges **data engineering, machine learning, and strategic technology enablement** — turning data into scalable intelligence that drives measurable business outcomes.
+I design and lead **data platforms that actually get used**. Not just pipelines, dashboards, or models, but systems that **drive decisions, surface signals, and scale intelligence across organisations**.
+
+Most teams don’t struggle with tools. They struggle with **connecting data → insight → action**.  
+That’s the gap I focus on.
 
 ---
 
-## 💡 What I Do
+## 💡 What I Work On
 
-* 🧠 Build and scale **modern data platforms** using established technology
-* 🤖 Enable **AI & ML solutions** through robust data infrastructure and MLOps practices
-* 🧩 Define and execute **data & AI strategies** aligned with organisational goals
-* 💬 Lead and mentor teams to deliver **impactful, production-grade systems**
+* 🧠 Building **end-to-end data platforms**. From ingestion to insight to automation  
+* 🤖 Enabling **AI/ML systems** that are production-ready, not experimental  
+* ⚡ Designing **real-time and event-driven architectures** for decision latency  
+* 🧩 Translating business problems into **data products, not just datasets**  
+
+---
+
+## 🧠 My Approach
+
+* Data platforms should **reduce decision time**, not just store data  
+* AI is only as good as the **data contracts and pipelines behind it**  
+* Simplicity beats novelty. **Context-driven tech decisions over hype**  
+* Strong teams > perfect architectures  
 
 ---
 
 ## 🔍 Current Focus
 
-* Generative AI in data & analytics
-* Real-time and event-driven data architectures
-* Intelligent automation & AI-led decision frameworks
+* Generative AI embedded into **data workflows (not separate from them)**  
+* Automated **data surveillance and anomaly detection systems**  
+* Scaling **data governance without slowing teams down**  
+* Bridging **analytics → operational decisioning**
 
 ---
 
-## 🧭 Tech Stack & Tools
+## 🧰 Tech I Use (When It Makes Sense)
 
-`Python` • `SQL` • `Spark` • `dbt` • `Airflow` • `Kafka` • `Docker` • `Terraform` • `AWS` • `GCP` • `Azure` • `Kubernetes` • `Pulumi`
+`Python` • `SQL` • `dbt` • `Airflow` • `Kafka` • `Spark`  
+`AWS` • `Azure` • `GCP` • `Kubernetes` • `Terraform`
 
----
-
-## 🌱 Learning & Exploration
-
-* Advancing in **AI strategy and data leadership**
-* Experimenting with **AI-assisted ETL and analytics pipelines**
-* Exploring **data product thinking** and modern **data quality frameworks**
+> Tools are context. Architecture is intent.
 
 ---
 
-## ⚡ Fun Facts
+## 🧪 What You’ll Find Here
 
-* 🏸 Competitive **badminton player**
-* 📷 Passionate about **photography** (currently using a Fujifilm X-T5)
+This GitHub is where I experiment with:
+
+* Real-world **data platform patterns**
+* AI-assisted **data engineering workflows**
+* Practical takes on **scalability, cost, and reliability**
+* Occasional **opinionated builds over toy examples**
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Mentorship
 
-Let’s talk about **data platforms, AI enablement, or technology leadership**
+I offer **pro-bono 1:1 mentorship sessions (45 mins)** for engineers and professionals looking to grow in:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](www.linkedin.com/in/vinayskulkarni)
-[![Portfolio](https://img.shields.io/badge/Portfolio-555?logo=vercel\&logoColor=white)](https://imvinay.com)
+* Data Engineering  
+* AI & ML Foundations  
+* Data Platform Design  
+* Career progression in data & tech  
+
+If you're navigating your next step or want structured guidance, you can book a session here:  
+👉 https://imvinay.com/mentorship
+
+---
+
+## 🌱 Currently Exploring
+
+* AI-native data platforms  
+* Data product thinking at scale  
+* Observability + data quality as first-class systems  
+
+---
+
+## ⚡ Beyond Work
+
+* 🏸 Badminton. Competitive, slightly obsessive  
+* 📷 Photography. Mostly landscapes and city nights. Shooting on Fujifilm X-T5  
+
+---
+
+## 📫 Connect
+
+If you're working on **data platforms, AI systems, or scaling teams**, we’ll likely have something to talk about.
+
+[LinkedIn](https://www.linkedin.com/in/vinayskulkarni)  
+[Portfolio](https://imvinay.com)
